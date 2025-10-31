@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arman19-data&label=Profile%20views&color=0e75b6&style=flat" alt="arman19-data" /> </p>
 
-- I am currently learning **Data Visualization, SQL, Power BI, Python, MS Excel, MS Excel**
+- I am currently learning **Data Visualization, SQL, Power BI, Python, MS Excel**
 
 - 📫 How to reach me **arman.ansari0519@gmail.com**
 
