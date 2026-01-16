@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arman19-data&label=Profile%20views&color=0e75b6&style=flat" alt="arman19-data" /> </p>
 
-- I am currently learning **Data Visualization, SQL, Power BI, Python, MS Excel**
-
-- 📫 How to reach me **arman.ansari0519@gmail.com**
+- I specialize in data science and generative AI, transforming complex datasets into valuable insights and intelligent solutions. My expertise includes data visualization, business intelligence, and advanced analytics. I work with tools like Power BI, SQL, and Snowflake, and leverage Python libraries (Pandas, NumPy, Matplotlib, Seaborn) to analyze and visualize data. I also have strong experience with Excel for reporting and automation.
+- 
+- 📫 How to reach me : **arman.ansari0519@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
