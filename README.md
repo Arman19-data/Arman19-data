@@ -5,7 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arman19-data&label=Profile%20views&color=0e75b6&style=flat" alt="arman19-data" /> </p>
 
-- I specialize in data science and generative AI, transforming complex datasets into valuable insights and intelligent solutions. My expertise includes data visualization, business intelligence, and advanced analytics. I work with tools like Power BI, SQL, and Snowflake, and leverage Python libraries (Pandas, NumPy, Matplotlib, Seaborn) to analyze and visualize data. I also have strong experience with Excel for reporting and automation.
+- I am an aspiring Azure Data Engineer with a strong foundation in building scalable data pipelines, cloud-based data solutions, and analytics platforms. My expertise lies in Azure Data Engineering, ETL/ELT development, data warehousing, and transforming raw data into meaningful business insights.
+
+I work with technologies such as Azure Data Factory, Azure Data Lake Storage, Databricks, SQL, and Snowflake to design efficient data solutions. Additionally, I have experience with Power BI and Excel for creating interactive dashboards, reports, and data-driven decision-making solutions.
+
+I am passionate about solving real-world problems through data engineering, analytics, and AI-driven technologies, with a keen interest in designing intelligent and scalable data platforms.
+.
 - 
 - 📫 How to reach me : **arman.ansari0519@gmail.com**
 
