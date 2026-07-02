@@ -8,6 +8,7 @@
 - I am an aspiring Azure Data Engineer with a strong foundation in building scalable data pipelines, cloud-based data solutions, and analytics platforms. My expertise lies in Azure Data Engineering, ETL/ELT development, data warehousing, and transforming raw data into meaningful business insights.
 
 I work with technologies such as Azure Data Factory, Azure Data Lake Storage, Databricks, SQL, and Snowflake to design efficient data solutions. Additionally, I have experience with Power BI and Excel for creating interactive dashboards, reports, and data-driven decision-making solutions.
+
 I am passionate about solving real-world problems through data engineering, analytics, and AI-driven technologies, with a keen interest in designing intelligent and scalable data platforms.
 
 .
